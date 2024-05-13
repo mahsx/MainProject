@@ -3,22 +3,18 @@
 
 <form class="form-inline my-2 my-lg-0" id="filterForm" method="get" action="@Url.Action("Index", "Home")">
     <div class="input-group">
-        <div class="mr-2">
-            <select class="custom-select custom-select-sm" id="inlineCategory" name="CategoryId">
-                <option value="">All Categories</option>
-                @foreach (var category in ViewBag.Categories as List<Category>)
-                {
-                    <option value="@category.CategoryId">@category.Name</option>
-                }
-            </select>
-        </div>
+        <select class="custom-select custom-select-sm mb-2 mr-sm-2" id="inlineCategory" name="CategoryId">
+            <option value="">All Categories</option>
+            @foreach (var category in ViewBag.Categories as List<Category>)
+            {
+                <option value="@category.CategoryId">@category.Name</option>
+            }
+        </select>
 
-        <div class="mr-2">
-            <input type="text" class="form-control form-control-sm" id="inlineProductTitle" name="ProductTitle" placeholder="Enter product title" style="max-width: 150px; height: 30px;">
-        </div>
+        <input type="text" class="form-control form-control-sm mb-2 mr-sm-2" id="inlineProductTitle" name="ProductTitle" placeholder="Enter product title" style="max-width: 150px; height: 30px;">
 
-        <div>
-            <button class="btn btn-success btn-sm" type="submit" style="height: 30px;">Filter</button>
+        <div class="input-group-append">
+            <button class="btn btn-success" type="submit">Filter</button>
         </div>
     </div>
 </form>
@@ -33,6 +29,7 @@
         });
     </script>
 }
+
 
 
 

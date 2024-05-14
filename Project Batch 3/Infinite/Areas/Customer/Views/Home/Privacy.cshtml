@@ -12,7 +12,7 @@
             body {
                 font-family: Arial, sans-serif;
                 margin: 0;
-                padding: 20px;
+                padding: 0; /* Updated padding */
                 background-color: #f9f9f9;
             }
 
@@ -46,8 +46,28 @@
             }
 
                 a:hover {
-                    text-decoration: underline;
+                    text-decoration: none;
                 }
+
+            .navbar {
+                padding-top: 12px;
+                padding-bottom:3px;/* Adjust the top padding */
+            }
+
+                .navbar .navbar-nav .nav-link {
+                    font-size: 13px;
+                    font-family: "Roboto", sans-serif;
+                    line-height: normal; /* Reset line-height */
+                }
+
+                .navbar .navbar-nav .nav-item {
+                    display: flex;
+                    align-items: center;
+                }
+
+
+
+
         </style>
     </head>
     <body>

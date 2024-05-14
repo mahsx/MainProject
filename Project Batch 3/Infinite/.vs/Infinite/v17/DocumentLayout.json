@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\maheshsek\\Desktop\\Main Project\\Infinite\\",
+  "WorkspaceRootPath": "C:\\Users\\maheshsek\\Git Repos 2\\Project Batch 3\\Infinite\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|c:\\users\\maheshsek\\desktop\\main project\\infinite\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|c:\\users\\maheshsek\\git repos 2\\project batch 3\\infinite\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|c:\\users\\maheshsek\\desktop\\main project\\infinite\\migrations\\20240512081330_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|c:\\users\\maheshsek\\git repos 2\\project batch 3\\infinite\\migrations\\20240512081330_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:migrations\\20240512081330_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|c:\\users\\maheshsek\\desktop\\main project\\infinite\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|c:\\users\\maheshsek\\git repos 2\\project batch 3\\infinite\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|c:\\users\\maheshsek\\desktop\\main project\\infinite\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|c:\\users\\maheshsek\\git repos 2\\project batch 3\\infinite\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|c:\\users\\maheshsek\\desktop\\main project\\infinite\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|c:\\users\\maheshsek\\git repos 2\\project batch 3\\infinite\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,11 +36,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\maheshsek\\Desktop\\Main Project\\Infinite\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\maheshsek\\Git Repos 2\\Project Batch 3\\Infinite\\Areas\\Customer\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Areas\\Customer\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\maheshsek\\Desktop\\Main Project\\Infinite\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\maheshsek\\Git Repos 2\\Project Batch 3\\Infinite\\Areas\\Customer\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Areas\\Customer\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAwwBcAAAAAAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAIwCkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-13T06:53:47.444Z",
               "IsPinned": true,
@@ -50,9 +50,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "index.cshtml",
-              "DocumentMoniker": "C:\\Users\\maheshsek\\Desktop\\Main Project\\Infinite\\Areas\\Customer\\Views\\Home\\index.cshtml",
+              "DocumentMoniker": "C:\\Users\\maheshsek\\Git Repos 2\\Project Batch 3\\Infinite\\Areas\\Customer\\Views\\Home\\index.cshtml",
               "RelativeDocumentMoniker": "Areas\\Customer\\Views\\Home\\index.cshtml",
-              "ToolTip": "C:\\Users\\maheshsek\\Desktop\\Main Project\\Infinite\\Areas\\Customer\\Views\\Home\\index.cshtml",
+              "ToolTip": "C:\\Users\\maheshsek\\Git Repos 2\\Project Batch 3\\Infinite\\Areas\\Customer\\Views\\Home\\index.cshtml",
               "RelativeToolTip": "Areas\\Customer\\Views\\Home\\index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -75,9 +75,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "20240512081330_init.cs",
-              "DocumentMoniker": "C:\\Users\\maheshsek\\Desktop\\Main Project\\Infinite\\Migrations\\20240512081330_init.cs",
+              "DocumentMoniker": "C:\\Users\\maheshsek\\Git Repos 2\\Project Batch 3\\Infinite\\Migrations\\20240512081330_init.cs",
               "RelativeDocumentMoniker": "Migrations\\20240512081330_init.cs",
-              "ToolTip": "C:\\Users\\maheshsek\\Desktop\\Main Project\\Infinite\\Migrations\\20240512081330_init.cs",
+              "ToolTip": "C:\\Users\\maheshsek\\Git Repos 2\\Project Batch 3\\Infinite\\Migrations\\20240512081330_init.cs",
               "RelativeToolTip": "Migrations\\20240512081330_init.cs",
               "ViewState": "AQIAAEAAAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -87,9 +87,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "AppDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\maheshsek\\Desktop\\Main Project\\Infinite\\Migrations\\AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\maheshsek\\Git Repos 2\\Project Batch 3\\Infinite\\Migrations\\AppDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Migrations\\AppDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\maheshsek\\Desktop\\Main Project\\Infinite\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\maheshsek\\Git Repos 2\\Project Batch 3\\Infinite\\Migrations\\AppDbContextModelSnapshot.cs",
               "RelativeToolTip": "Migrations\\AppDbContextModelSnapshot.cs",
               "ViewState": "AQIAAIACAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -99,9 +99,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\maheshsek\\Desktop\\Main Project\\Infinite\\Models\\Product.cs",
+              "DocumentMoniker": "C:\\Users\\maheshsek\\Git Repos 2\\Project Batch 3\\Infinite\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "C:\\Users\\maheshsek\\Desktop\\Main Project\\Infinite\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\maheshsek\\Git Repos 2\\Project Batch 3\\Infinite\\Models\\Product.cs",
               "RelativeToolTip": "Models\\Product.cs",
               "ViewState": "AQIAACkAAAAAAAAAAAAgwDYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

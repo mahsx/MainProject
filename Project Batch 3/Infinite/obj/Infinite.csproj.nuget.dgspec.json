@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maheshsek\\Desktop\\Main Project\\Infinite\\Infinite.csproj": {}
+    "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Infinite.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maheshsek\\Desktop\\Main Project\\Infinite\\Infinite.csproj": {
+    "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Infinite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maheshsek\\Desktop\\Main Project\\Infinite\\Infinite.csproj",
+        "projectUniqueName": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Infinite.csproj",
         "projectName": "Infinite",
-        "projectPath": "C:\\Users\\maheshsek\\Desktop\\Main Project\\Infinite\\Infinite.csproj",
+        "projectPath": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Infinite.csproj",
         "packagesPath": "C:\\Users\\maheshsek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maheshsek\\Desktop\\Main Project\\Infinite\\obj\\",
+        "outputPath": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maheshsek\\AppData\\Roaming\\NuGet\\NuGet.Config",

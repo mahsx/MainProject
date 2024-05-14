@@ -1,0 +1,786 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|c:\\users\\maheshsek\\downloads\\batch_3_shop 2\\batch_3_shop\\batch_3_shop\\infinite\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|c:\\users\\maheshsek\\downloads\\batch_3_shop 2\\batch_3_shop\\batch_3_shop\\infinite\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|c:\\users\\maheshsek\\downloads\\batch_3_shop 2\\batch_3_shop\\batch_3_shop\\infinite\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|c:\\users\\maheshsek\\downloads\\batch_3_shop 2\\batch_3_shop\\batch_3_shop\\infinite\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|c:\\users\\maheshsek\\downloads\\batch_3_shop 2\\batch_3_shop\\batch_3_shop\\infinite\\areas\\customer\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:areas\\customer\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|c:\\users\\maheshsek\\downloads\\batch_3_shop 2\\batch_3_shop\\batch_3_shop\\infinite\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|c:\\users\\maheshsek\\downloads\\batch_3_shop 2\\batch_3_shop\\batch_3_shop\\infinite\\areas\\customer\\views\\cart\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:areas\\customer\\views\\cart\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|c:\\users\\maheshsek\\downloads\\batch_3_shop 2\\batch_3_shop\\batch_3_shop\\infinite\\areas\\customer\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:areas\\customer\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|c:\\users\\maheshsek\\downloads\\batch_3_shop 2\\batch_3_shop\\batch_3_shop\\infinite\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|c:\\users\\maheshsek\\downloads\\batch_3_shop 2\\batch_3_shop\\batch_3_shop\\infinite\\areas\\identity\\pages\\account\\manage\\twofactorauthentication.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\twofactorauthentication.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|c:\\users\\maheshsek\\downloads\\batch_3_shop 2\\batch_3_shop\\batch_3_shop\\infinite\\areas\\customer\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:areas\\customer\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|c:\\users\\maheshsek\\downloads\\batch_3_shop 2\\batch_3_shop\\batch_3_shop\\infinite\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|c:\\users\\maheshsek\\downloads\\batch_3_shop 2\\batch_3_shop\\batch_3_shop\\infinite\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|c:\\users\\maheshsek\\downloads\\batch_3_shop 2\\batch_3_shop\\batch_3_shop\\infinite\\areas\\admin\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:areas\\admin\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|c:\\users\\maheshsek\\downloads\\batch_3_shop 2\\batch_3_shop\\batch_3_shop\\infinite\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|c:\\users\\maheshsek\\downloads\\batch_3_shop 2\\batch_3_shop\\batch_3_shop\\infinite\\areas\\admin\\views\\user\\rolemanagement.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:areas\\admin\\views\\user\\rolemanagement.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|c:\\users\\maheshsek\\downloads\\batch_3_shop 2\\batch_3_shop\\batch_3_shop\\infinite\\areas\\admin\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:areas\\admin\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|c:\\users\\maheshsek\\downloads\\batch_3_shop 2\\batch_3_shop\\batch_3_shop\\infinite\\areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|c:\\users\\maheshsek\\downloads\\batch_3_shop 2\\batch_3_shop\\batch_3_shop\\infinite\\areas\\admin\\views\\order\\paymentconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:areas\\admin\\views\\order\\paymentconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|c:\\users\\maheshsek\\downloads\\batch_3_shop 2\\batch_3_shop\\batch_3_shop\\infinite\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|c:\\users\\maheshsek\\downloads\\batch_3_shop 2\\batch_3_shop\\batch_3_shop\\infinite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|c:\\users\\maheshsek\\downloads\\batch_3_shop 2\\batch_3_shop\\batch_3_shop\\infinite\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|c:\\users\\maheshsek\\downloads\\batch_3_shop 2\\batch_3_shop\\batch_3_shop\\infinite\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|c:\\users\\maheshsek\\downloads\\batch_3_shop 2\\batch_3_shop\\batch_3_shop\\infinite\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|c:\\users\\maheshsek\\downloads\\batch_3_shop 2\\batch_3_shop\\batch_3_shop\\infinite\\wwwroot\\js\\tabledata.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:wwwroot\\js\\tabledata.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|c:\\users\\maheshsek\\downloads\\batch_3_shop 2\\batch_3_shop\\batch_3_shop\\infinite\\wwwroot\\js\\orderdata.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:wwwroot\\js\\orderdata.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|c:\\users\\maheshsek\\downloads\\batch_3_shop 2\\batch_3_shop\\batch_3_shop\\infinite\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|c:\\users\\maheshsek\\downloads\\batch_3_shop 2\\batch_3_shop\\batch_3_shop\\infinite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|c:\\users\\maheshsek\\downloads\\batch_3_shop 2\\batch_3_shop\\batch_3_shop\\infinite\\areas\\admin\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:areas\\admin\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|c:\\users\\maheshsek\\downloads\\batch_3_shop 2\\batch_3_shop\\batch_3_shop\\infinite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|c:\\users\\maheshsek\\downloads\\batch_3_shop 2\\batch_3_shop\\batch_3_shop\\infinite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|c:\\users\\maheshsek\\downloads\\batch_3_shop 2\\batch_3_shop\\batch_3_shop\\infinite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|c:\\users\\maheshsek\\downloads\\batch_3_shop 2\\batch_3_shop\\batch_3_shop\\infinite\\areas\\identity\\pages\\account\\manage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|c:\\users\\maheshsek\\downloads\\batch_3_shop 2\\batch_3_shop\\batch_3_shop\\infinite\\areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|c:\\users\\maheshsek\\downloads\\batch_3_shop 2\\batch_3_shop\\batch_3_shop\\infinite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|c:\\users\\maheshsek\\downloads\\batch_3_shop 2\\batch_3_shop\\batch_3_shop\\infinite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|c:\\users\\maheshsek\\downloads\\batch_3_shop 2\\batch_3_shop\\batch_3_shop\\infinite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|c:\\users\\maheshsek\\downloads\\batch_3_shop 2\\batch_3_shop\\batch_3_shop\\infinite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|c:\\users\\maheshsek\\downloads\\batch_3_shop 2\\batch_3_shop\\batch_3_shop\\infinite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|c:\\users\\maheshsek\\downloads\\batch_3_shop 2\\batch_3_shop\\batch_3_shop\\infinite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|c:\\users\\maheshsek\\downloads\\batch_3_shop 2\\batch_3_shop\\batch_3_shop\\infinite\\areas\\identity\\pages\\account\\manage\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|c:\\users\\maheshsek\\downloads\\batch_3_shop 2\\batch_3_shop\\batch_3_shop\\infinite\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|c:\\users\\maheshsek\\downloads\\batch_3_shop 2\\batch_3_shop\\batch_3_shop\\infinite\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|c:\\users\\maheshsek\\downloads\\batch_3_shop 2\\batch_3_shop\\batch_3_shop\\infinite\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|c:\\users\\maheshsek\\downloads\\batch_3_shop 2\\batch_3_shop\\batch_3_shop\\infinite\\migrations\\20240514121403_checking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:migrations\\20240514121403_checking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Areas\\Customer\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Areas\\Customer\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAowCUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:53:47.444Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Areas\\Customer\\Views\\Home\\index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Customer\\Views\\Home\\index.cshtml",
+              "ToolTip": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Areas\\Customer\\Views\\Home\\index.cshtml",
+              "RelativeToolTip": "Areas\\Customer\\Views\\Home\\index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T17:25:27.476Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-14T04:58:43.023Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AQIAAIgXAAAAAAAAAAArwJkXAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-14T04:58:24.118Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T05:01:14.669Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T05:01:02.685Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T05:00:40.863Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAE4AAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T05:01:46.372Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TwoFactorAuthentication.cshtml",
+              "DocumentMoniker": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Areas\\Identity\\Pages\\Account\\Manage\\TwoFactorAuthentication.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\TwoFactorAuthentication.cshtml",
+              "ToolTip": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Areas\\Identity\\Pages\\Account\\Manage\\TwoFactorAuthentication.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\TwoFactorAuthentication.cshtml",
+              "ViewState": "AQIAADgAAAAAAAAAAIBJwD4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T18:03:11.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "summary.cshtml",
+              "DocumentMoniker": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Areas\\Customer\\Views\\Cart\\summary.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Customer\\Views\\Cart\\summary.cshtml",
+              "ToolTip": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Areas\\Customer\\Views\\Cart\\summary.cshtml",
+              "RelativeToolTip": "Areas\\Customer\\Views\\Cart\\summary.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAIBJwC4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T12:46:43.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Areas\\Customer\\Views\\Cart\\index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Customer\\Views\\Cart\\index.cshtml",
+              "ToolTip": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Areas\\Customer\\Views\\Cart\\index.cshtml",
+              "RelativeToolTip": "Areas\\Customer\\Views\\Cart\\index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T12:45:19.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:44:41.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAA5wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:43:50.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CompanyController.cs",
+              "DocumentMoniker": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Areas\\Admin\\Controllers\\CompanyController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\CompanyController.cs",
+              "ToolTip": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Areas\\Admin\\Controllers\\CompanyController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\CompanyController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:43:42.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAIwBQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:43:03.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "roleManagement.cshtml",
+              "DocumentMoniker": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Areas\\Admin\\Views\\User\\roleManagement.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\User\\roleManagement.cshtml",
+              "ToolTip": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Areas\\Admin\\Views\\User\\roleManagement.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\User\\roleManagement.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T12:42:05.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Areas\\Admin\\Views\\User\\index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\User\\index.cshtml",
+              "ToolTip": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Areas\\Admin\\Views\\User\\index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\User\\index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T12:41:48.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Areas\\Admin\\Views\\Order\\index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Order\\index.cshtml",
+              "ToolTip": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Areas\\Admin\\Views\\Order\\index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Order\\index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T12:40:12.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "paymentConfirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Areas\\Admin\\Views\\Order\\paymentConfirmation.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Order\\paymentConfirmation.cshtml",
+              "ToolTip": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Areas\\Admin\\Views\\Order\\paymentConfirmation.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Order\\paymentConfirmation.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T12:41:16.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Areas\\Admin\\Views\\Category\\index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Category\\index.cshtml",
+              "ToolTip": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Areas\\Admin\\Views\\Category\\index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Category\\index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T12:39:36.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T12:33:40.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T12:33:29.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAwAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-14T12:33:16.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "tabledata.js",
+              "DocumentMoniker": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\wwwroot\\js\\tabledata.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\tabledata.js",
+              "ToolTip": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\wwwroot\\js\\tabledata.js",
+              "RelativeToolTip": "wwwroot\\js\\tabledata.js",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-14T12:25:57.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "orderData.js",
+              "DocumentMoniker": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\wwwroot\\js\\orderData.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\orderData.js",
+              "ToolTip": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\wwwroot\\js\\orderData.js",
+              "RelativeToolTip": "wwwroot\\js\\orderData.js",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-14T12:25:29.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAIBJwE8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:19:04.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20240514121403_checking.cs",
+              "DocumentMoniker": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Migrations\\20240514121403_checking.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240514121403_checking.cs",
+              "ToolTip": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Migrations\\20240514121403_checking.cs",
+              "RelativeToolTip": "Migrations\\20240514121403_checking.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:14:03.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Areas\\Customer\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Areas\\Customer\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Areas\\Customer\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Areas\\Customer\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAcwHMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:12:42.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "bootstrap-utilities.css.map",
+              "DocumentMoniker": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+              "ToolTip": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-14T10:11:34.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAkwHUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T06:39:05.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ToolTip": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T06:38:31.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Areas\\Customer\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Customer\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Areas\\Customer\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Areas\\Customer\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T06:22:13.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "bootstrap-reboot.rtl.min.css.map",
+              "DocumentMoniker": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+              "ToolTip": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-14T06:21:57.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "bootstrap-reboot.rtl.min.css",
+              "DocumentMoniker": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+              "ToolTip": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwAYAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-14T06:21:57.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "bootstrap-reboot.rtl.css.map",
+              "DocumentMoniker": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+              "ToolTip": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-14T06:21:56.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "bootstrap-reboot.rtl.css",
+              "DocumentMoniker": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+              "ToolTip": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+              "ViewState": "AQIAAAcAAAAAAAAAAIBZwA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-14T06:21:55.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "bootstrap-reboot.min.css.map",
+              "DocumentMoniker": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+              "ToolTip": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-14T06:21:53.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "bootstrap-reboot.min.css",
+              "DocumentMoniker": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+              "ToolTip": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwAYAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-14T06:21:52.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "bootstrap-reboot.css.map",
+              "DocumentMoniker": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+              "ToolTip": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-14T06:21:46.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "bootstrap-reboot.css",
+              "DocumentMoniker": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "ToolTip": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "ViewState": "AQIAAAcAAAAAAAAAAIBZwA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-14T06:21:45.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "details.cshtml",
+              "DocumentMoniker": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Areas\\Customer\\Views\\Home\\details.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Customer\\Views\\Home\\details.cshtml",
+              "ToolTip": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Areas\\Customer\\Views\\Home\\details.cshtml",
+              "RelativeToolTip": "Areas\\Customer\\Views\\Home\\details.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAIBJwEwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T06:14:25.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "details.cshtml",
+              "DocumentMoniker": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Areas\\Admin\\Views\\Order\\details.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Order\\details.cshtml",
+              "ToolTip": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Areas\\Admin\\Views\\Order\\details.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Order\\details.cshtml",
+              "ViewState": "AQIAANoAAAAAAAAAAIBZwOAAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T06:07:22.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T05:01:51.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAkwAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-14T04:53:22.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:28:14.227Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

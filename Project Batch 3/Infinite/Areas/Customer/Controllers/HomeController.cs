@@ -21,25 +21,34 @@ public class HomeController : Controller
         _shoppingCartRepository = shoppingCartRepository;
         _categoryRepository = categoryRepository;
     }
-
-    public IActionResult Index(int? categoryId, string productTitle)
+    public IActionResult Index(string categoryId, string productTitle)
     {
-        var products = _productRepository.GetAll(includeProperties: "Category");
+        IEnumerable<Product> products = _productRepository.GetAll(includeProperties: "Category");
 
-        if (categoryId.HasValue)
+        if (!string.IsNullOrEmpty(categoryId))
         {
-            products = products.Where(p => p.CategoryId == categoryId.Value);
+            // Filter products by categoryId
+            int parsedCategoryId;
+            if (int.TryParse(categoryId, out parsedCategoryId))
+            {
+                products = products.Where(p => p.CategoryId == parsedCategoryId);
+            }
         }
 
         if (!string.IsNullOrEmpty(productTitle))
         {
+            // Filter products by productTitle
             products = products.Where(p => p.Title.ToLower().Contains(productTitle.ToLower()));
         }
+
+        ViewBag.CategoryId = categoryId; // Pass categoryId to the view
+        ViewBag.ProductTitle = productTitle; // Pass productTitle to the view
 
         ViewBag.Categories = _categoryRepository.GetAll();  // Assuming GetAll() returns List<Category>
 
         return View(products);
     }
+
 
 
 

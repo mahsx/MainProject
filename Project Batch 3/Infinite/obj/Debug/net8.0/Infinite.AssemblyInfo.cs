@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Infinite")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39ba2ea0cff67f6470b30efe73ceb90c1bcb39c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Infinite")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Infinite")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

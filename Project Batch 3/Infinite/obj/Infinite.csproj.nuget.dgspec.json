@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Infinite.csproj": {}
+    "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Infinite.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Infinite.csproj": {
+    "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Infinite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Infinite.csproj",
+        "projectUniqueName": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Infinite.csproj",
         "projectName": "Infinite",
-        "projectPath": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\Infinite.csproj",
+        "projectPath": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Infinite.csproj",
         "packagesPath": "C:\\Users\\maheshsek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maheshsek\\Downloads\\Batch_3_Shop 2\\Batch_3_Shop\\Batch_3_Shop\\Infinite\\obj\\",
+        "outputPath": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maheshsek\\AppData\\Roaming\\NuGet\\NuGet.Config",

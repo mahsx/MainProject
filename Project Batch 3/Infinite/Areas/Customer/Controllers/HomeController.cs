@@ -52,8 +52,6 @@ public class HomeController : Controller
 
 
 
-
-
     public IActionResult Details(int id)
     {
         ShoppingCart cart = new ShoppingCart();

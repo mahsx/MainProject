@@ -1,26 +1,162 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\maheshsek\\Git Repos 2\\Project Batch 3\\Infinite\\",
+  "WorkspaceRootPath": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|c:\\users\\maheshsek\\git repos 2\\project batch 3\\infinite\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|d:\\final project\\project batch 3\\infinite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|c:\\users\\maheshsek\\git repos 2\\project batch 3\\infinite\\migrations\\20240512081330_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:migrations\\20240512081330_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|d:\\final project\\project batch 3\\infinite\\areas\\customer\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:areas\\customer\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|c:\\users\\maheshsek\\git repos 2\\project batch 3\\infinite\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|d:\\final project\\project batch 3\\infinite\\areas\\customer\\views\\cart\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:areas\\customer\\views\\cart\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|c:\\users\\maheshsek\\git repos 2\\project batch 3\\infinite\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|d:\\final project\\project batch 3\\infinite\\areas\\customer\\views\\cart\\orderconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:areas\\customer\\views\\cart\\orderconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|d:\\final project\\project batch 3\\infinite\\models\\orderheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:models\\orderheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|d:\\final project\\project batch 3\\infinite\\data\\initializer\\idbinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:data\\initializer\\idbinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|d:\\final project\\project batch 3\\infinite\\data\\initializer\\dbinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:data\\initializer\\dbinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|d:\\final project\\project batch 3\\infinite\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|d:\\final project\\project batch 3\\infinite\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|d:\\final project\\project batch 3\\infinite\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|d:\\final project\\project batch 3\\infinite\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|c:\\users\\maheshsek\\git repos 2\\project batch 3\\infinite\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|d:\\final project\\project batch 3\\infinite\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|d:\\final project\\project batch 3\\infinite\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|d:\\final project\\project batch 3\\infinite\\areas\\customer\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:areas\\customer\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|d:\\final project\\project batch 3\\infinite\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|d:\\final project\\project batch 3\\infinite\\areas\\customer\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:areas\\customer\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|d:\\final project\\project batch 3\\infinite\\areas\\identity\\pages\\account\\manage\\twofactorauthentication.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\twofactorauthentication.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|d:\\final project\\project batch 3\\infinite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|d:\\final project\\project batch 3\\infinite\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|d:\\final project\\project batch 3\\infinite\\areas\\identity\\pages\\account\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:areas\\identity\\pages\\account\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|d:\\final project\\project batch 3\\infinite\\viewmodels\\shoppingcartvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:viewmodels\\shoppingcartvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|d:\\final project\\project batch 3\\infinite\\viewmodels\\rolemanagementvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:viewmodels\\rolemanagementvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|d:\\final project\\project batch 3\\infinite\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|d:\\final project\\project batch 3\\infinite\\viewmodels\\ordervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:viewmodels\\ordervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|d:\\final project\\project batch 3\\infinite\\repositories\\shoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:repositories\\shoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|d:\\final project\\project batch 3\\infinite\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|d:\\final project\\project batch 3\\infinite\\viewcomponents\\shoppingcartviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:viewcomponents\\shoppingcartviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|d:\\final project\\project batch 3\\infinite\\utils\\stripesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:utils\\stripesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|d:\\final project\\project batch 3\\infinite\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|d:\\final project\\project batch 3\\infinite\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|d:\\final project\\project batch 3\\infinite\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|d:\\final project\\project batch 3\\infinite\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|d:\\final project\\project batch 3\\infinite\\migrations\\20240512081330_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:migrations\\20240512081330_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|d:\\final project\\project batch 3\\infinite\\areas\\identity\\pages\\account\\manage\\_managenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\_managenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|d:\\final project\\project batch 3\\infinite\\areas\\identity\\pages\\account\\manage\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|d:\\final project\\project batch 3\\infinite\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|d:\\final project\\project batch 3\\infinite\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|d:\\final project\\project batch 3\\infinite\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|d:\\final project\\project batch 3\\infinite\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7435B6BA-70E0-490D-B73D-A4B5B0C8D067}|Infinite.csproj|solutionrelative:migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,17 +166,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 30,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 12,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\maheshsek\\Git Repos 2\\Project Batch 3\\Infinite\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Areas\\Customer\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Areas\\Customer\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\maheshsek\\Git Repos 2\\Project Batch 3\\Infinite\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Areas\\Customer\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Areas\\Customer\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAIwCkAAAAFAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwDUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-13T06:53:47.444Z",
               "IsPinned": true,
@@ -48,16 +184,17 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "index.cshtml",
-              "DocumentMoniker": "C:\\Users\\maheshsek\\Git Repos 2\\Project Batch 3\\Infinite\\Areas\\Customer\\Views\\Home\\index.cshtml",
+              "DocumentMoniker": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Areas\\Customer\\Views\\Home\\index.cshtml",
               "RelativeDocumentMoniker": "Areas\\Customer\\Views\\Home\\index.cshtml",
-              "ToolTip": "C:\\Users\\maheshsek\\Git Repos 2\\Project Batch 3\\Infinite\\Areas\\Customer\\Views\\Home\\index.cshtml",
+              "ToolTip": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Areas\\Customer\\Views\\Home\\index.cshtml",
               "RelativeToolTip": "Areas\\Customer\\Views\\Home\\index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAqAAAA",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAACkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-12T17:25:27.476Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -73,39 +210,484 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "20240512081330_init.cs",
-              "DocumentMoniker": "C:\\Users\\maheshsek\\Git Repos 2\\Project Batch 3\\Infinite\\Migrations\\20240512081330_init.cs",
-              "RelativeDocumentMoniker": "Migrations\\20240512081330_init.cs",
-              "ToolTip": "C:\\Users\\maheshsek\\Git Repos 2\\Project Batch 3\\Infinite\\Migrations\\20240512081330_init.cs",
-              "RelativeToolTip": "Migrations\\20240512081330_init.cs",
-              "ViewState": "AQIAAEAAAAAAAAAAAAAgwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T13:17:17.423Z"
+              "DocumentIndex": 2,
+              "Title": "summary.cshtml",
+              "DocumentMoniker": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Areas\\Customer\\Views\\Cart\\summary.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Customer\\Views\\Cart\\summary.cshtml",
+              "ToolTip": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Areas\\Customer\\Views\\Cart\\summary.cshtml",
+              "RelativeToolTip": "Areas\\Customer\\Views\\Cart\\summary.cshtml",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAFwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T10:16:58.397Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\maheshsek\\Git Repos 2\\Project Batch 3\\Infinite\\Migrations\\AppDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "Migrations\\AppDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\maheshsek\\Git Repos 2\\Project Batch 3\\Infinite\\Migrations\\AppDbContextModelSnapshot.cs",
-              "RelativeToolTip": "Migrations\\AppDbContextModelSnapshot.cs",
-              "ViewState": "AQIAAIACAAAAAAAAAAAgwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T13:16:50.453Z"
+              "DocumentIndex": 3,
+              "Title": "orderConfirmation.cshtml",
+              "DocumentMoniker": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Areas\\Customer\\Views\\Cart\\orderConfirmation.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Customer\\Views\\Cart\\orderConfirmation.cshtml",
+              "ToolTip": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Areas\\Customer\\Views\\Cart\\orderConfirmation.cshtml",
+              "RelativeToolTip": "Areas\\Customer\\Views\\Cart\\orderConfirmation.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T10:16:46.38Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\maheshsek\\Git Repos 2\\Project Batch 3\\Infinite\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "C:\\Users\\maheshsek\\Git Repos 2\\Project Batch 3\\Infinite\\Models\\Product.cs",
-              "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAgwDYAAAAAAAAA",
+              "Title": "OrderHeader.cs",
+              "DocumentMoniker": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Models\\OrderHeader.cs",
+              "RelativeDocumentMoniker": "Models\\OrderHeader.cs",
+              "ToolTip": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Models\\OrderHeader.cs",
+              "RelativeToolTip": "Models\\OrderHeader.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAxwBoAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T10:28:14.227Z"
+              "WhenOpened": "2024-05-15T10:05:07.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-15T09:45:29.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Areas\\Customer\\Views\\Cart\\index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Customer\\Views\\Cart\\index.cshtml",
+              "ToolTip": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Areas\\Customer\\Views\\Cart\\index.cshtml",
+              "RelativeToolTip": "Areas\\Customer\\Views\\Cart\\index.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T08:14:34.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Areas\\Customer\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Customer\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Areas\\Customer\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Areas\\Customer\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAAAF0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T07:17:09.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAnwA4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T07:16:04.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TwoFactorAuthentication.cshtml",
+              "DocumentMoniker": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Areas\\Identity\\Pages\\Account\\Manage\\TwoFactorAuthentication.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\TwoFactorAuthentication.cshtml",
+              "ToolTip": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Areas\\Identity\\Pages\\Account\\Manage\\TwoFactorAuthentication.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\TwoFactorAuthentication.cshtml",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAAD4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T07:16:01.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "bootstrap.bundle.js",
+              "DocumentMoniker": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "ToolTip": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "ViewState": "AQIAABUMAAAAAAAAAAAAwB4MAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-15T07:15:30.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T06:13:16.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ConfirmEmail.cshtml",
+              "DocumentMoniker": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "ToolTip": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T06:05:14.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ShoppingCartVM.cs",
+              "DocumentMoniker": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\ViewModels\\ShoppingCartVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ShoppingCartVM.cs",
+              "ToolTip": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\ViewModels\\ShoppingCartVM.cs",
+              "RelativeToolTip": "ViewModels\\ShoppingCartVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T06:04:33.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RoleManagementVM.cs",
+              "DocumentMoniker": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\ViewModels\\RoleManagementVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\RoleManagementVM.cs",
+              "ToolTip": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\ViewModels\\RoleManagementVM.cs",
+              "RelativeToolTip": "ViewModels\\RoleManagementVM.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T06:04:28.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductVM.cs",
+              "DocumentMoniker": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\ViewModels\\ProductVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ProductVM.cs",
+              "ToolTip": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\ViewModels\\ProductVM.cs",
+              "RelativeToolTip": "ViewModels\\ProductVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T06:04:17.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OrderVM.cs",
+              "DocumentMoniker": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\ViewModels\\OrderVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\OrderVM.cs",
+              "ToolTip": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\ViewModels\\OrderVM.cs",
+              "RelativeToolTip": "ViewModels\\OrderVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T06:03:56.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ShoppingCartViewComponent.cs",
+              "DocumentMoniker": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\ViewComponents\\ShoppingCartViewComponent.cs",
+              "RelativeDocumentMoniker": "ViewComponents\\ShoppingCartViewComponent.cs",
+              "ToolTip": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\ViewComponents\\ShoppingCartViewComponent.cs",
+              "RelativeToolTip": "ViewComponents\\ShoppingCartViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T06:00:06.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ShoppingCartRepository.cs",
+              "DocumentMoniker": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Repositories\\ShoppingCartRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ShoppingCartRepository.cs",
+              "ToolTip": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Repositories\\ShoppingCartRepository.cs",
+              "RelativeToolTip": "Repositories\\ShoppingCartRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T06:00:55.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Models\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "Models\\ShoppingCart.cs",
+              "ToolTip": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Models\\ShoppingCart.cs",
+              "RelativeToolTip": "Models\\ShoppingCart.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T06:00:37.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "StripeSettings.cs",
+              "DocumentMoniker": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Utils\\StripeSettings.cs",
+              "RelativeDocumentMoniker": "Utils\\StripeSettings.cs",
+              "ToolTip": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Utils\\StripeSettings.cs",
+              "RelativeToolTip": "Utils\\StripeSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T05:59:17.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProductRepository.cs",
+              "ToolTip": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T05:57:19.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Company.cs",
+              "DocumentMoniker": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Models\\Company.cs",
+              "RelativeDocumentMoniker": "Models\\Company.cs",
+              "ToolTip": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Models\\Company.cs",
+              "RelativeToolTip": "Models\\Company.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T05:53:31.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Models\\AppUser.cs",
+              "ToolTip": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Models\\AppUser.cs",
+              "RelativeToolTip": "Models\\AppUser.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T05:50:06.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA2wA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T05:50:36.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDbInit.cs",
+              "DocumentMoniker": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Data\\Initializer\\IDbInit.cs",
+              "RelativeDocumentMoniker": "Data\\Initializer\\IDbInit.cs",
+              "ToolTip": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Data\\Initializer\\IDbInit.cs",
+              "RelativeToolTip": "Data\\Initializer\\IDbInit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T05:43:59.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DbInit.cs",
+              "DocumentMoniker": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Data\\Initializer\\DbInit.cs",
+              "RelativeDocumentMoniker": "Data\\Initializer\\DbInit.cs",
+              "ToolTip": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Data\\Initializer\\DbInit.cs",
+              "RelativeToolTip": "Data\\Initializer\\DbInit.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T05:38:37.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAD0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T05:36:53.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-15T05:36:48.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_ManageNav.cshtml",
+              "DocumentMoniker": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "ToolTip": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T05:35:18.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "ToolTip": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T05:35:18.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Areas\\Customer\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Areas\\Customer\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Areas\\Customer\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Areas\\Customer\\Controllers\\CartController.cs",
+              "ViewState": "AQIAALgAAAAAAAAAAAAcwKoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T05:34:16.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T05:29:23.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IProductRepository.cs",
+              "ToolTip": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "Repositories\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T05:29:11.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ICategoryRepository.cs",
+              "ToolTip": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "Repositories\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T05:28:17.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CategoryRepository.cs",
+              "ToolTip": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "Repositories\\CategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T05:28:27.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20240512081330_init.cs",
+              "DocumentMoniker": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Migrations\\20240512081330_init.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240512081330_init.cs",
+              "ToolTip": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Migrations\\20240512081330_init.cs",
+              "RelativeToolTip": "Migrations\\20240512081330_init.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:17:17.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAIACAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:16:50.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "D:\\FINAL PROJECT\\Project Batch 3\\Infinite\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:28:14.227Z",
+              "EditorCaption": ""
             }
           ]
         }
